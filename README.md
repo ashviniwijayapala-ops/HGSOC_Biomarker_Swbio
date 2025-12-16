@@ -26,5 +26,8 @@ uv add pandas seaborn matplotlib.pyplot scikit-learn openpyxl
 
 uv run jupyter lab
 
+**Upload dataset**
+Download HGSOC_Biomarkers.xlsx and upload it onto jupyter lab. 
+
 
 
